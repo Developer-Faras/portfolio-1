@@ -1,0 +1,72 @@
+// All Responsive Code Are Goes Haire
+
+// XXL
+@media (min-width: 1440px) {
+    // Config
+    .container{
+        width: 1300px;
+    }
+}
+
+
+// XL
+@media (max-width: 1439px) {
+    // Config
+    .container{
+        width: 1200px;
+    }
+}
+
+
+// LG
+@media (max-width: 1220px){
+   // Config
+   .container{
+       width: 1120px;
+   }
+}
+
+
+// MMD
+@media (max-width: 1120px) {
+    // Config
+   .container{
+        width: 990px;
+    }
+}
+
+
+// MD
+@media (max-width: 992px) {
+    // Config
+   .container{
+        width: 760px;
+    }
+}
+
+
+// SM
+@media (max-width: 768px) {
+    // Config
+   .container{
+        width: 520px;
+    }
+}
+
+
+// XSM
+@media (max-width: 520px) {
+    // Config
+   .container{
+        width: 400px;
+    }
+}
+
+
+// XXS
+@media (max-width: 400px) {
+    // Config
+   .container{
+        width: 94%;
+    }
+}
